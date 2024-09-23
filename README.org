@@ -4,6 +4,6 @@ cl-webdriver-client is a client library for WebDriver (W3C specification).
 
 |---------+---------------------------------------------------------|
 | source  | git:https://github.com/copyleft/cl-webdriver-client.git |
-| commit  | d871d65                                                 |
+| commit  | 3c2c377                                                 |
 | systems | cl-webdriver-client                                     |
 |---------+---------------------------------------------------------|
